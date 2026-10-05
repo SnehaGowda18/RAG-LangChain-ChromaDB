@@ -1,0 +1,43 @@
+LearnSmart AI Learning Guide
+
+LearnSmart is an adaptive learning platform designed to help students choose suitable courses based on their learning history and performance.
+
+Python Programming
+
+Python is a high-level programming language widely used for software development, data analysis, automation, artificial intelligence, and machine learning. Beginners should learn variables, data types, conditions, loops, functions, lists, dictionaries, and file handling.
+
+Data Structures and Algorithms
+
+Data Structures and Algorithms, commonly called DSA, teaches students how to organize data and solve computational problems efficiently. Important topics include arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, recursion, and dynamic programming.
+
+Machine Learning
+
+Machine Learning enables computer systems to learn patterns from data and make predictions or decisions. Common learning approaches include supervised learning, unsupervised learning, and reinforcement learning. Important concepts include training data, features, labels, model evaluation, overfitting, and underfitting.
+
+Cybersecurity
+
+Cybersecurity focuses on protecting computers, networks, applications, and data from unauthorized access and attacks. Important areas include network security, authentication, encryption, vulnerability assessment, threat detection, and incident response.
+
+SQL and Databases
+
+SQL is used to store, retrieve, and manipulate data in relational databases. Important SQL concepts include SELECT, INSERT, UPDATE, DELETE, WHERE, JOIN, GROUP BY, ORDER BY, primary keys, and foreign keys.
+
+Cloud Computing
+
+Cloud computing provides computing resources such as servers, storage, databases, and applications over the internet. Common cloud concepts include virtualization, scalability, availability, containers, and cloud security.
+
+Artificial Intelligence
+
+Artificial Intelligence is the field of creating systems that can perform tasks that normally require human intelligence. AI applications include natural language processing, computer vision, recommendation systems, robotics, and intelligent assistants.
+
+Learning Recommendations
+
+Students who are new to programming should begin with Python Programming. Students who already understand programming fundamentals can study Data Structures and Algorithms. Students interested in data should consider SQL, Data Analysis, and Machine Learning. Students interested in security should study Cybersecurity and Network Security.
+
+Quiz Performance
+
+Quiz scores can be used as an indicator of learning progress. A score below 50 may indicate that the student needs additional practice. Scores between 50 and 75 indicate developing understanding. Scores above 75 generally indicate stronger understanding, although quiz scores should not be the only factor used to evaluate a student's learning.
+
+Course Retrieval
+
+A retrieval-augmented generation system can retrieve relevant course information from a document corpus before generating an answer. This approach helps the language model answer questions using the supplied knowledge rather than relying only on its pretrained knowledge.

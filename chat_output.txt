@@ -1,0 +1,22 @@
+============================================================
+Question: What are the important Python topics beginners should learn?
+
+Answer: **Important Python topics for beginners:**
+
+- Variables and data types  
+- Conditional statements  
+- Loops  
+- Functions  
+- Lists  
+- Tuples  
+- Dictionaries  
+- Sets  
+- File handling
+
+Answer Type: RAG
+
+Sources:
+- LearnSmart Course Guide.pdf — Page 1
+- learnsmart_guide.txt
+- LearnSmart Course Guide.pdf — Page 10
+

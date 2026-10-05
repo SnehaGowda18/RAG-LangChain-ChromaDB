@@ -1,0 +1,68 @@
+============================================================
+RAG PIPELINE - QUESTION ANSWER RESULTS
+============================================================
+
+============================================================
+QUESTION 1
+============================================================
+What should a beginner learn in Python?
+
+ANSWER
+------------------------------------------------------------
+Beginners should learn variables, data types, conditions, loops, functions, lists, dictionaries, and file handling.
+
+SOURCES
+------------------------------------------------------------
+- data\learnsmart_guide.txt
+
+============================================================
+QUESTION 2
+============================================================
+What are the important topics in Data Structures and Algorithms?
+
+ANSWER
+------------------------------------------------------------
+Important topics in Data Structures and Algorithms include arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, recursion, and dynamic programming.
+
+SOURCES
+------------------------------------------------------------
+- data\learnsmart_guide.txt
+
+============================================================
+QUESTION 3
+============================================================
+What are the common approaches in Machine Learning?
+
+ANSWER
+------------------------------------------------------------
+The common approaches in Machine Learning are supervised learning, unsupervised learning, and reinforcement learning.
+
+SOURCES
+------------------------------------------------------------
+- data\learnsmart_guide.txt
+
+============================================================
+QUESTION 4
+============================================================
+What are the important areas of Cybersecurity?
+
+ANSWER
+------------------------------------------------------------
+Network security, authentication, encryption, vulnerability assessment, threat detection, and incident response.
+
+SOURCES
+------------------------------------------------------------
+- data\learnsmart_guide.txt
+
+============================================================
+QUESTION 5
+============================================================
+What is SQL used for?
+
+ANSWER
+------------------------------------------------------------
+SQL is used to store, retrieve, and manipulate data in relational databases.
+
+SOURCES
+------------------------------------------------------------
+- data\learnsmart_guide.txt
