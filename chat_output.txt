@@ -1,7 +1,7 @@
 ============================================================
-Question: What are the important Python topics beginners should learn?
+Question: what are the important python topics beginners should learn ?
 
-Answer: **Important Python topics for beginners:**
+Answer: **Important Python topics beginners should learn**
 
 - Variables and data types  
 - Conditional statements  
@@ -17,6 +17,14 @@ Answer Type: RAG
 
 Sources:
 - LearnSmart Course Guide.pdf — Page 1
-- learnsmart_guide.txt
-- LearnSmart Course Guide.pdf — Page 10
+
+============================================================
+Question: what is the capital of japan ?
+
+Answer: The capital of Japan is **Tokyo**.
+
+Answer Type: GENERAL
+
+Sources:
+- General LLM knowledge
 
